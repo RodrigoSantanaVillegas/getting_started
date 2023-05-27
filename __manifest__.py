@@ -11,7 +11,9 @@
     'application': True,
     'license': 'LGPL-3',
     # archivos de datos siempre cargados en la instalación
-    'data': [],
+    'data': [
+        'security/ir.model.access.csv'
+    ],
     # archivos de datos que contienen datos de demostración cargados opcionalmente
     'demo': [
         'demo/demo_data.xml',
