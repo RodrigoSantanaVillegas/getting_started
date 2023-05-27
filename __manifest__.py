@@ -9,6 +9,7 @@
     'category': 'Category',
     'description': 'Modulo siguiendo el paso a paso Getting Started odoo16',
     'application': True,
+    'license': 'LGPL-3',
     # archivos de datos siempre cargados en la instalación
     'data': [],
     # archivos de datos que contienen datos de demostración cargados opcionalmente
